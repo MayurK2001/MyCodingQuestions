@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "complex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "new": "cpp"
+    }
+}
